@@ -1,0 +1,9 @@
+{
+  "name": "B02014_024E",
+  "label": "Estimate!!Total!!American Indian tribes, specified!!Menominee",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_024EA,B02014_024M,B02014_024MA"
+}

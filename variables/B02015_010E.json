@@ -1,0 +1,9 @@
+{
+  "name": "B02015_010E",
+  "label": "Estimate!!Total!!Indonesian",
+  "concept": "ASIAN ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02015",
+  "limit": 0,
+  "attributes": "B02015_010EA,B02015_010M,B02015_010MA"
+}

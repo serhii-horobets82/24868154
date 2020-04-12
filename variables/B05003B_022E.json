@@ -1,0 +1,9 @@
+{
+  "name": "B05003B_022E",
+  "label": "Estimate!!Total!!Female!!18 years and over!!Foreign born!!Naturalized U.S. citizen",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (BLACK OR AFRICAN AMERICAN ALONE)",
+  "predicateType": "int",
+  "group": "B05003B",
+  "limit": 0,
+  "attributes": "B05003B_022EA,B05003B_022M,B05003B_022MA"
+}

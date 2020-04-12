@@ -1,0 +1,9 @@
+{
+  "name": "B04004_054E",
+  "label": "Estimate!!Total!!Luxembourger",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_054EA,B04004_054M,B04004_054MA"
+}

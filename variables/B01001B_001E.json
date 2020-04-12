@@ -1,0 +1,9 @@
+{
+  "name": "B01001B_001E",
+  "label": "Estimate!!Total",
+  "concept": "SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE)",
+  "predicateType": "int",
+  "group": "B01001B",
+  "limit": 0,
+  "attributes": "B01001B_001EA,B01001B_001M,B01001B_001MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B04004_061E",
+  "label": "Estimate!!Total!!Polish",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_061EA,B04004_061M,B04004_061MA"
+}

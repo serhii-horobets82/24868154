@@ -1,0 +1,9 @@
+{
+  "name": "B02009_001E",
+  "label": "Estimate!!Total",
+  "concept": "BLACK OR AFRICAN AMERICAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES",
+  "predicateType": "int",
+  "group": "B02009",
+  "limit": 0,
+  "attributes": "B02009_001EA,B02009_001M,B02009_001MA"
+}

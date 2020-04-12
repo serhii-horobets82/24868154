@@ -1,0 +1,9 @@
+{
+  "name": "B02014_020E",
+  "label": "Estimate!!Total!!American Indian tribes, specified!!Houma",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_020EA,B02014_020M,B02014_020MA"
+}

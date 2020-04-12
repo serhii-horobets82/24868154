@@ -1,0 +1,9 @@
+{
+  "name": "B05002_006E",
+  "label": "Estimate!!Total!!Native!!Born in other state in the United States!!Midwest",
+  "concept": "PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05002",
+  "limit": 0,
+  "attributes": "B05002_006EA,B05002_006M,B05002_006MA"
+}

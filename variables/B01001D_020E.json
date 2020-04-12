@@ -1,0 +1,9 @@
+{
+  "name": "B01001D_020E",
+  "label": "Estimate!!Total!!Female!!10 to 14 years",
+  "concept": "SEX BY AGE (ASIAN ALONE)",
+  "predicateType": "int",
+  "group": "B01001D",
+  "limit": 0,
+  "attributes": "B01001D_020EA,B01001D_020M,B01001D_020MA"
+}

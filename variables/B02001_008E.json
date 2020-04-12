@@ -1,0 +1,9 @@
+{
+  "name": "B02001_008E",
+  "label": "Estimate!!Total!!Two or more races",
+  "concept": "RACE",
+  "predicateType": "int",
+  "group": "B02001",
+  "limit": 0,
+  "attributes": "B02001_008EA,B02001_008M,B02001_008MA"
+}

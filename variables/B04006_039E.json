@@ -1,0 +1,9 @@
+{
+  "name": "B04006_039E",
+  "label": "Estimate!!Total!!Finnish",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_039EA,B04006_039M,B04006_039MA"
+}

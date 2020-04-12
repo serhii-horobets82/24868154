@@ -1,0 +1,9 @@
+{
+  "name": "B04004_097E",
+  "label": "Estimate!!Total!!West Indian (except Hispanic groups)!!Belizean",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_097EA,B04004_097M,B04004_097MA"
+}

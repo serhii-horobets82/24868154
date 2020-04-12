@@ -1,0 +1,9 @@
+{
+  "name": "B02016_011E",
+  "label": "Estimate!!Total!!Other Pacific Islander, not specified (check box only)",
+  "concept": "NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02016",
+  "limit": 0,
+  "attributes": "B02016_011EA,B02016_011M,B02016_011MA"
+}

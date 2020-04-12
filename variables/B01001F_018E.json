@@ -1,0 +1,9 @@
+{
+  "name": "B01001F_018E",
+  "label": "Estimate!!Total!!Female!!Under 5 years",
+  "concept": "SEX BY AGE (SOME OTHER RACE ALONE)",
+  "predicateType": "int",
+  "group": "B01001F",
+  "limit": 0,
+  "attributes": "B01001F_018EA,B01001F_018M,B01001F_018MA"
+}

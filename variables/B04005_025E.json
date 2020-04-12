@@ -1,0 +1,9 @@
+{
+  "name": "B04005_025E",
+  "label": "Estimate!!Total!!Cajun",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_025EA,B04005_025M,B04005_025MA"
+}

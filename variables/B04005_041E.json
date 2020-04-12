@@ -1,0 +1,9 @@
+{
+  "name": "B04005_041E",
+  "label": "Estimate!!Total!!French Canadian",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_041EA,B04005_041M,B04005_041MA"
+}

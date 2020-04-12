@@ -1,0 +1,9 @@
+{
+  "name": "B04006_057E",
+  "label": "Estimate!!Total!!New Zealander",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_057EA,B04006_057M,B04006_057MA"
+}

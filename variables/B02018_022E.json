@@ -1,0 +1,9 @@
+{
+  "name": "B02018_022E",
+  "label": "Estimate!!Total Groups Tallied!!Vietnamese",
+  "concept": "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02018",
+  "limit": 0,
+  "attributes": "B02018_022EA,B02018_022M,B02018_022MA"
+}

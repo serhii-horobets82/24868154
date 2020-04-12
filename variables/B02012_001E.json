@@ -1,0 +1,9 @@
+{
+  "name": "B02012_001E",
+  "label": "Estimate!!Total",
+  "concept": "NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES",
+  "predicateType": "int",
+  "group": "B02012",
+  "limit": 0,
+  "attributes": "B02012_001EA,B02012_001M,B02012_001MA"
+}

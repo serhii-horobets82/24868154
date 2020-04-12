@@ -1,0 +1,9 @@
+{
+  "name": "B02018_018E",
+  "label": "Estimate!!Total Groups Tallied!!Pakistani",
+  "concept": "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02018",
+  "limit": 0,
+  "attributes": "B02018_018EA,B02018_018M,B02018_018MA"
+}

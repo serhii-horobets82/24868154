@@ -1,0 +1,9 @@
+{
+  "name": "B00002_001E",
+  "label": "Estimate!!Total",
+  "concept": "UNWEIGHTED SAMPLE HOUSING UNITS",
+  "predicateType": "int",
+  "group": "B00002",
+  "limit": 0,
+  "attributes": "B00002_001EA"
+}

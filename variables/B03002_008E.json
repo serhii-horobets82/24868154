@@ -1,0 +1,9 @@
+{
+  "name": "B03002_008E",
+  "label": "Estimate!!Total!!Not Hispanic or Latino!!Some other race alone",
+  "concept": "HISPANIC OR LATINO ORIGIN BY RACE",
+  "predicateType": "int",
+  "group": "B03002",
+  "limit": 0,
+  "attributes": "B03002_008EA,B03002_008M,B03002_008MA"
+}

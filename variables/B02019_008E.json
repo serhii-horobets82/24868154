@@ -1,0 +1,9 @@
+{
+  "name": "B02019_008E",
+  "label": "Estimate!!Total Groups Tallied!!Micronesian!!Other Micronesian",
+  "concept": "NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02019",
+  "limit": 0,
+  "attributes": "B02019_008EA,B02019_008M,B02019_008MA"
+}

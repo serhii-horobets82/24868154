@@ -1,0 +1,9 @@
+{
+  "name": "B01001G_030E",
+  "label": "Estimate!!Total!!Female!!75 to 84 years",
+  "concept": "SEX BY AGE (TWO OR MORE RACES)",
+  "predicateType": "int",
+  "group": "B01001G",
+  "limit": 0,
+  "attributes": "B01001G_030EA,B01001G_030M,B01001G_030MA"
+}

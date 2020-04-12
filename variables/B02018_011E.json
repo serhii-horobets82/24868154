@@ -1,0 +1,9 @@
+{
+  "name": "B02018_011E",
+  "label": "Estimate!!Total Groups Tallied!!Japanese",
+  "concept": "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02018",
+  "limit": 0,
+  "attributes": "B02018_011EA,B02018_011M,B02018_011MA"
+}

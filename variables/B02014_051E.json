@@ -1,0 +1,9 @@
+{
+  "name": "B02014_051E",
+  "label": "Estimate!!Total!!Alaska Native tribes, specified!!Tsimshian",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_051EA,B02014_051M,B02014_051MA"
+}

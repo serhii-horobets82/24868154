@@ -1,0 +1,9 @@
+{
+  "name": "B04007_005E",
+  "label": "Estimate!!Total!!Ancestry not specified",
+  "concept": "ANCESTRY",
+  "predicateType": "int",
+  "group": "B04007",
+  "limit": 0,
+  "attributes": "B04007_005EA,B04007_005M,B04007_005MA"
+}

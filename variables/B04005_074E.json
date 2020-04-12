@@ -1,0 +1,9 @@
+{
+  "name": "B04005_074E",
+  "label": "Estimate!!Total!!Subsaharan African!!Cape Verdean",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_074EA,B04005_074M,B04005_074MA"
+}

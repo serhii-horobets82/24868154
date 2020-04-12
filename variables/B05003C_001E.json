@@ -1,0 +1,9 @@
+{
+  "name": "B05003C_001E",
+  "label": "Estimate!!Total",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (AMERICAN INDIAN AND ALASKA NATIVE ALONE)",
+  "predicateType": "int",
+  "group": "B05003C",
+  "limit": 0,
+  "attributes": "B05003C_001EA,B05003C_001M,B05003C_001MA"
+}

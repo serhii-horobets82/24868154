@@ -1,0 +1,9 @@
+{
+  "name": "B01001E_011E",
+  "label": "Estimate!!Total!!Male!!35 to 44 years",
+  "concept": "SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)",
+  "predicateType": "int",
+  "group": "B01001E",
+  "limit": 0,
+  "attributes": "B01001E_011EA,B01001E_011M,B01001E_011MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B04004_006E",
+  "label": "Estimate!!Total!!Arab",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_006EA,B04004_006M,B04004_006MA"
+}

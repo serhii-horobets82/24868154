@@ -1,0 +1,9 @@
+{
+  "name": "B01003_001E",
+  "label": "Estimate!!Total",
+  "concept": "TOTAL POPULATION",
+  "predicateType": "int",
+  "group": "B01003",
+  "limit": 0,
+  "attributes": "B01003_001EA,B01003_001M,B01003_001MA"
+}

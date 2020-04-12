@@ -1,0 +1,9 @@
+{
+  "name": "B02018_017E",
+  "label": "Estimate!!Total Groups Tallied!!Okinawan",
+  "concept": "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02018",
+  "limit": 0,
+  "attributes": "B02018_017EA,B02018_017M,B02018_017MA"
+}

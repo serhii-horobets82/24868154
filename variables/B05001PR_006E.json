@@ -1,0 +1,9 @@
+{
+  "name": "B05001PR_006E",
+  "label": "Estimate!!Total!!Not a U.S. citizen",
+  "concept": "NATIVITY AND CITIZENSHIP STATUS IN PUERTO RICO",
+  "predicateType": "int",
+  "group": "B05001PR",
+  "limit": 0,
+  "attributes": "B05001PR_006EA,B05001PR_006M,B05001PR_006MA"
+}

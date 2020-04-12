@@ -1,0 +1,9 @@
+{
+  "name": "B04005_020E",
+  "label": "Estimate!!Total!!Basque",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_020EA,B04005_020M,B04005_020MA"
+}

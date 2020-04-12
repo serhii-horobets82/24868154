@@ -1,0 +1,9 @@
+{
+  "name": "B04005_084E",
+  "label": "Estimate!!Total!!Subsaharan African!!Sudanese",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_084EA,B04005_084M,B04005_084MA"
+}

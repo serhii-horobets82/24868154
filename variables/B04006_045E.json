@@ -1,0 +1,9 @@
+{
+  "name": "B04006_045E",
+  "label": "Estimate!!Total!!Guyanese",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_045EA,B04006_045M,B04006_045MA"
+}

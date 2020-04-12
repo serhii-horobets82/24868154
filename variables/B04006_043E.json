@@ -1,0 +1,9 @@
+{
+  "name": "B04006_043E",
+  "label": "Estimate!!Total!!German Russian",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_043EA,B04006_043M,B04006_043MA"
+}

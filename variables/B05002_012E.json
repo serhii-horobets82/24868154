@@ -1,0 +1,9 @@
+{
+  "name": "B05002_012E",
+  "label": "Estimate!!Total!!Native!!Born outside the United States!!Born abroad of American parent(s)",
+  "concept": "PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05002",
+  "limit": 0,
+  "attributes": "B05002_012EA,B05002_012M,B05002_012MA"
+}

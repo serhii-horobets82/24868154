@@ -1,0 +1,9 @@
+{
+  "name": "B04006_100E",
+  "label": "Estimate!!Total!!West Indian (except Hispanic groups)!!Dutch West Indian",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_100EA,B04006_100M,B04006_100MA"
+}

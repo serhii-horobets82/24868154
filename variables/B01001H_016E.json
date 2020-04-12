@@ -1,0 +1,9 @@
+{
+  "name": "B01001H_016E",
+  "label": "Estimate!!Total!!Male!!85 years and over",
+  "concept": "SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",
+  "predicateType": "int",
+  "group": "B01001H",
+  "limit": 0,
+  "attributes": "B01001H_016EA,B01001H_016M,B01001H_016MA"
+}

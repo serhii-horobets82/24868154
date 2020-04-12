@@ -1,0 +1,9 @@
+{
+  "name": "B01001_033E",
+  "label": "Estimate!!Total!!Female!!21 years",
+  "concept": "SEX BY AGE",
+  "predicateType": "int",
+  "group": "B01001",
+  "limit": 0,
+  "attributes": "B01001_033EA,B01001_033M,B01001_033MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B04005_081E",
+  "label": "Estimate!!Total!!Subsaharan African!!Sierra Leonean",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_081EA,B04005_081M,B04005_081MA"
+}

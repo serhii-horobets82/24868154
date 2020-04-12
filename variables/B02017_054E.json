@@ -1,0 +1,9 @@
+{
+  "name": "B02017_054E",
+  "label": "Estimate!!Total Groups Tallied!!American Indian or Alaska Native tribes, not specified",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02017",
+  "limit": 0,
+  "attributes": "B02017_054EA,B02017_054M,B02017_054MA"
+}

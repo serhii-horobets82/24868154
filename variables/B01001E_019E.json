@@ -1,0 +1,9 @@
+{
+  "name": "B01001E_019E",
+  "label": "Estimate!!Total!!Female!!5 to 9 years",
+  "concept": "SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)",
+  "predicateType": "int",
+  "group": "B01001E",
+  "limit": 0,
+  "attributes": "B01001E_019EA,B01001E_019M,B01001E_019MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B02008_001E",
+  "label": "Estimate!!Total",
+  "concept": "WHITE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES",
+  "predicateType": "int",
+  "group": "B02008",
+  "limit": 0,
+  "attributes": "B02008_001EA,B02008_001M,B02008_001MA"
+}

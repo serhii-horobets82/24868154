@@ -1,0 +1,9 @@
+{
+  "name": "B05002_010E",
+  "label": "Estimate!!Total!!Native!!Born outside the United States!!Puerto Rico",
+  "concept": "PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05002",
+  "limit": 0,
+  "attributes": "B05002_010EA,B05002_010M,B05002_010MA"
+}

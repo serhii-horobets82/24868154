@@ -1,0 +1,9 @@
+{
+  "name": "B05001_004E",
+  "label": "Estimate!!Total!!U.S. citizen, born abroad of American parent(s)",
+  "concept": "NATIVITY AND CITIZENSHIP STATUS IN THE UNITED STATES",
+  "predicateType": "int",
+  "group": "B05001",
+  "limit": 0,
+  "attributes": "B05001_004EA,B05001_004M,B05001_004MA"
+}

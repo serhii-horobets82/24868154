@@ -1,0 +1,9 @@
+{
+  "name": "B02011_001E",
+  "label": "Estimate!!Total",
+  "concept": "ASIAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES",
+  "predicateType": "int",
+  "group": "B02011",
+  "limit": 0,
+  "attributes": "B02011_001EA,B02011_001M,B02011_001MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B02013_001E",
+  "label": "Estimate!!Total",
+  "concept": "SOME OTHER RACE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES",
+  "predicateType": "int",
+  "group": "B02013",
+  "limit": 0,
+  "attributes": "B02013_001EA,B02013_001M,B02013_001MA"
+}

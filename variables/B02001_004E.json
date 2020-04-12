@@ -1,0 +1,9 @@
+{
+  "name": "B02001_004E",
+  "label": "Estimate!!Total!!American Indian and Alaska Native alone",
+  "concept": "RACE",
+  "predicateType": "int",
+  "group": "B02001",
+  "limit": 0,
+  "attributes": "B02001_004EA,B02001_004M,B02001_004MA"
+}

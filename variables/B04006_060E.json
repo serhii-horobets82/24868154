@@ -1,0 +1,9 @@
+{
+  "name": "B04006_060E",
+  "label": "Estimate!!Total!!Pennsylvania German",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_060EA,B04006_060M,B04006_060MA"
+}

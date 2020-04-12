@@ -1,0 +1,9 @@
+{
+  "name": "B01001D_001E",
+  "label": "Estimate!!Total",
+  "concept": "SEX BY AGE (ASIAN ALONE)",
+  "predicateType": "int",
+  "group": "B01001D",
+  "limit": 0,
+  "attributes": "B01001D_001EA,B01001D_001M,B01001D_001MA"
+}

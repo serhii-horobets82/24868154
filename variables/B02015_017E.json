@@ -1,0 +1,9 @@
+{
+  "name": "B02015_017E",
+  "label": "Estimate!!Total!!Okinawan",
+  "concept": "ASIAN ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02015",
+  "limit": 0,
+  "attributes": "B02015_017EA,B02015_017M,B02015_017MA"
+}

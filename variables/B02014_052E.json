@@ -1,0 +1,9 @@
+{
+  "name": "B02014_052E",
+  "label": "Estimate!!Total!!Alaska Native tribes, specified!!Yup'ik",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_052EA,B02014_052M,B02014_052MA"
+}

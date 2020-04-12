@@ -1,0 +1,9 @@
+{
+  "name": "B04006_041E",
+  "label": "Estimate!!Total!!French Canadian",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_041EA,B04006_041M,B04006_041MA"
+}

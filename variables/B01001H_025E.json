@@ -1,0 +1,9 @@
+{
+  "name": "B01001H_025E",
+  "label": "Estimate!!Total!!Female!!30 to 34 years",
+  "concept": "SEX BY AGE (WHITE ALONE, NOT HISPANIC OR LATINO)",
+  "predicateType": "int",
+  "group": "B01001H",
+  "limit": 0,
+  "attributes": "B01001H_025EA,B01001H_025M,B01001H_025MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B02018_014E",
+  "label": "Estimate!!Total Groups Tallied!!Malaysian",
+  "concept": "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02018",
+  "limit": 0,
+  "attributes": "B02018_014EA,B02018_014M,B02018_014MA"
+}

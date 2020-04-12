@@ -1,0 +1,9 @@
+{
+  "name": "B05003C_017E",
+  "label": "Estimate!!Total!!Female!!Under 18 years!!Foreign born!!Naturalized U.S. citizen",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (AMERICAN INDIAN AND ALASKA NATIVE ALONE)",
+  "predicateType": "int",
+  "group": "B05003C",
+  "limit": 0,
+  "attributes": "B05003C_017EA,B05003C_017M,B05003C_017MA"
+}

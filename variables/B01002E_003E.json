@@ -1,0 +1,9 @@
+{
+  "name": "B01002E_003E",
+  "label": "Estimate!!Median age --!!Female",
+  "concept": "MEDIAN AGE BY SEX (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)",
+  "predicateType": "float",
+  "group": "B01002E",
+  "limit": 0,
+  "attributes": "B01002E_003EA,B01002E_003M,B01002E_003MA"
+}

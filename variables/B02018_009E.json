@@ -1,0 +1,9 @@
+{
+  "name": "B02018_009E",
+  "label": "Estimate!!Total Groups Tallied!!Hmong",
+  "concept": "ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02018",
+  "limit": 0,
+  "attributes": "B02018_009EA,B02018_009M,B02018_009MA"
+}

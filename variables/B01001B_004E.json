@@ -1,0 +1,9 @@
+{
+  "name": "B01001B_004E",
+  "label": "Estimate!!Total!!Male!!5 to 9 years",
+  "concept": "SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE)",
+  "predicateType": "int",
+  "group": "B01001B",
+  "limit": 0,
+  "attributes": "B01001B_004EA,B01001B_004M,B01001B_004MA"
+}

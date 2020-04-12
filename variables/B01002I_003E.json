@@ -1,0 +1,9 @@
+{
+  "name": "B01002I_003E",
+  "label": "Estimate!!Median age --!!Female",
+  "concept": "MEDIAN AGE BY SEX (HISPANIC OR LATINO)",
+  "predicateType": "float",
+  "group": "B01002I",
+  "limit": 0,
+  "attributes": "B01002I_003EA,B01002I_003M,B01002I_003MA"
+}

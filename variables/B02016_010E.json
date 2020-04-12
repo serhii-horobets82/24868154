@@ -1,0 +1,9 @@
+{
+  "name": "B02016_010E",
+  "label": "Estimate!!Total!!Melanesian!!Other Melanesian",
+  "concept": "NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02016",
+  "limit": 0,
+  "attributes": "B02016_010EA,B02016_010M,B02016_010MA"
+}

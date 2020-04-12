@@ -1,0 +1,9 @@
+{
+  "name": "B05003C_007E",
+  "label": "Estimate!!Total!!Male!!Under 18 years!!Foreign born!!Not a U.S. citizen",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (AMERICAN INDIAN AND ALASKA NATIVE ALONE)",
+  "predicateType": "int",
+  "group": "B05003C",
+  "limit": 0,
+  "attributes": "B05003C_007EA,B05003C_007M,B05003C_007MA"
+}

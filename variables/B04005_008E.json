@@ -1,0 +1,9 @@
+{
+  "name": "B04005_008E",
+  "label": "Estimate!!Total!!Arab!!Iraqi",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_008EA,B04005_008M,B04005_008MA"
+}

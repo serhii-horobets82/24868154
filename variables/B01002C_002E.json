@@ -1,0 +1,9 @@
+{
+  "name": "B01002C_002E",
+  "label": "Estimate!!Median age --!!Male",
+  "concept": "MEDIAN AGE BY SEX (AMERICAN INDIAN AND ALASKA NATIVE ALONE)",
+  "predicateType": "float",
+  "group": "B01002C",
+  "limit": 0,
+  "attributes": "B01002C_002EA,B01002C_002M,B01002C_002MA"
+}

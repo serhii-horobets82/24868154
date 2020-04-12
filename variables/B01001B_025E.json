@@ -1,0 +1,9 @@
+{
+  "name": "B01001B_025E",
+  "label": "Estimate!!Total!!Female!!30 to 34 years",
+  "concept": "SEX BY AGE (BLACK OR AFRICAN AMERICAN ALONE)",
+  "predicateType": "int",
+  "group": "B01001B",
+  "limit": 0,
+  "attributes": "B01001B_025EA,B01001B_025M,B01001B_025MA"
+}

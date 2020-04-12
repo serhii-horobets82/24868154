@@ -1,0 +1,9 @@
+{
+  "name": "B02015_009E",
+  "label": "Estimate!!Total!!Hmong",
+  "concept": "ASIAN ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02015",
+  "limit": 0,
+  "attributes": "B02015_009EA,B02015_009M,B02015_009MA"
+}

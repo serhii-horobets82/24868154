@@ -1,0 +1,9 @@
+{
+  "name": "B04004_017E",
+  "label": "Estimate!!Total!!Assyrian/Chaldean/Syriac",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_017EA,B04004_017M,B04004_017MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B02001_006E",
+  "label": "Estimate!!Total!!Native Hawaiian and Other Pacific Islander alone",
+  "concept": "RACE",
+  "predicateType": "int",
+  "group": "B02001",
+  "limit": 0,
+  "attributes": "B02001_006EA,B02001_006M,B02001_006MA"
+}

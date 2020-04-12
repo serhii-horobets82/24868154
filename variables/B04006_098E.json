@@ -1,0 +1,9 @@
+{
+  "name": "B04006_098E",
+  "label": "Estimate!!Total!!West Indian (except Hispanic groups)!!Bermudan",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_098EA,B04006_098M,B04006_098MA"
+}

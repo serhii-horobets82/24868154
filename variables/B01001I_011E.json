@@ -1,0 +1,9 @@
+{
+  "name": "B01001I_011E",
+  "label": "Estimate!!Total!!Male!!35 to 44 years",
+  "concept": "SEX BY AGE (HISPANIC OR LATINO)",
+  "predicateType": "int",
+  "group": "B01001I",
+  "limit": 0,
+  "attributes": "B01001I_011EA,B01001I_011M,B01001I_011MA"
+}

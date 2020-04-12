@@ -1,0 +1,9 @@
+{
+  "name": "B01001C_025E",
+  "label": "Estimate!!Total!!Female!!30 to 34 years",
+  "concept": "SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE)",
+  "predicateType": "int",
+  "group": "B01001C",
+  "limit": 0,
+  "attributes": "B01001C_025EA,B01001C_025M,B01001C_025MA"
+}

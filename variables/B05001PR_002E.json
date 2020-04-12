@@ -1,0 +1,9 @@
+{
+  "name": "B05001PR_002E",
+  "label": "Estimate!!Total!!U.S. citizen, born in Puerto Rico",
+  "concept": "NATIVITY AND CITIZENSHIP STATUS IN PUERTO RICO",
+  "predicateType": "int",
+  "group": "B05001PR",
+  "limit": 0,
+  "attributes": "B05001PR_002EA,B05001PR_002M,B05001PR_002MA"
+}

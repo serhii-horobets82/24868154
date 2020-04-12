@@ -1,0 +1,9 @@
+{
+  "name": "B04006_081E",
+  "label": "Estimate!!Total!!Subsaharan African!!Sierra Leonean",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_081EA,B04006_081M,B04006_081MA"
+}

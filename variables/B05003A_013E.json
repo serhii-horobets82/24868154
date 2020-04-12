@@ -1,0 +1,9 @@
+{
+  "name": "B05003A_013E",
+  "label": "Estimate!!Total!!Female",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (WHITE ALONE)",
+  "predicateType": "int",
+  "group": "B05003A",
+  "limit": 0,
+  "attributes": "B05003A_013EA,B05003A_013M,B05003A_013MA"
+}

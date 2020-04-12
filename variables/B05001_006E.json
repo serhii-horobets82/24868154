@@ -1,0 +1,9 @@
+{
+  "name": "B05001_006E",
+  "label": "Estimate!!Total!!Not a U.S. citizen",
+  "concept": "NATIVITY AND CITIZENSHIP STATUS IN THE UNITED STATES",
+  "predicateType": "int",
+  "group": "B05001",
+  "limit": 0,
+  "attributes": "B05001_006EA,B05001_006M,B05001_006MA"
+}

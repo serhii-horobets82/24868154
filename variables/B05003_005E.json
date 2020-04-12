@@ -1,0 +1,9 @@
+{
+  "name": "B05003_005E",
+  "label": "Estimate!!Total!!Male!!Under 18 years!!Foreign born",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05003",
+  "limit": 0,
+  "attributes": "B05003_005EA,B05003_005M,B05003_005MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B02010_001E",
+  "label": "Estimate!!Total",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES",
+  "predicateType": "int",
+  "group": "B02010",
+  "limit": 0,
+  "attributes": "B02010_001EA,B02010_001M,B02010_001MA"
+}

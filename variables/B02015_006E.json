@@ -1,0 +1,9 @@
+{
+  "name": "B02015_006E",
+  "label": "Estimate!!Total!!Cambodian",
+  "concept": "ASIAN ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02015",
+  "limit": 0,
+  "attributes": "B02015_006EA,B02015_006M,B02015_006MA"
+}

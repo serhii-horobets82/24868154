@@ -1,0 +1,9 @@
+{
+  "name": "B01001I_019E",
+  "label": "Estimate!!Total!!Female!!5 to 9 years",
+  "concept": "SEX BY AGE (HISPANIC OR LATINO)",
+  "predicateType": "int",
+  "group": "B01001I",
+  "limit": 0,
+  "attributes": "B01001I_019EA,B01001I_019M,B01001I_019MA"
+}

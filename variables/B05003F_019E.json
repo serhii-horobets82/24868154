@@ -1,0 +1,9 @@
+{
+  "name": "B05003F_019E",
+  "label": "Estimate!!Total!!Female!!18 years and over",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (SOME OTHER RACE ALONE)",
+  "predicateType": "int",
+  "group": "B05003F",
+  "limit": 0,
+  "attributes": "B05003F_019EA,B05003F_019M,B05003F_019MA"
+}

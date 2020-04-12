@@ -1,0 +1,9 @@
+{
+  "name": "B02014_039E",
+  "label": "Estimate!!Total!!American Indian tribes, specified!!Tohono O'Odham",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_039EA,B02014_039M,B02014_039MA"
+}

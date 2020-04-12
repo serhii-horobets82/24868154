@@ -1,0 +1,9 @@
+{
+  "name": "B01001G_007E",
+  "label": "Estimate!!Total!!Male!!18 and 19 years",
+  "concept": "SEX BY AGE (TWO OR MORE RACES)",
+  "predicateType": "int",
+  "group": "B01001G",
+  "limit": 0,
+  "attributes": "B01001G_007EA,B01001G_007M,B01001G_007MA"
+}

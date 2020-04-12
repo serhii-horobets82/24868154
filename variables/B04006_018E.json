@@ -1,0 +1,9 @@
+{
+  "name": "B04006_018E",
+  "label": "Estimate!!Total!!Australian",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_018EA,B04006_018M,B04006_018MA"
+}

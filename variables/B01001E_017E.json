@@ -1,0 +1,9 @@
+{
+  "name": "B01001E_017E",
+  "label": "Estimate!!Total!!Female",
+  "concept": "SEX BY AGE (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)",
+  "predicateType": "int",
+  "group": "B01001E",
+  "limit": 0,
+  "attributes": "B01001E_017EA,B01001E_017M,B01001E_017MA"
+}

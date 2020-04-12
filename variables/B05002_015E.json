@@ -1,0 +1,9 @@
+{
+  "name": "B05002_015E",
+  "label": "Estimate!!Total!!Foreign born!!Naturalized U.S. citizen!!Europe",
+  "concept": "PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05002",
+  "limit": 0,
+  "attributes": "B05002_015EA,B05002_015M,B05002_015MA"
+}

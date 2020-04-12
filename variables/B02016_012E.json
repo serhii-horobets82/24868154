@@ -1,0 +1,9 @@
+{
+  "name": "B02016_012E",
+  "label": "Estimate!!Total!!Two or More NHPI",
+  "concept": "NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS",
+  "predicateType": "int",
+  "group": "B02016",
+  "limit": 0,
+  "attributes": "B02016_012EA,B02016_012M,B02016_012MA"
+}

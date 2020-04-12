@@ -1,0 +1,9 @@
+{
+  "name": "B02014_006E",
+  "label": "Estimate!!Total!!American Indian tribes, specified!!Canadian and French American Indian",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_006EA,B02014_006M,B02014_006MA"
+}

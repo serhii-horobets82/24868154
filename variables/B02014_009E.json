@@ -1,0 +1,9 @@
+{
+  "name": "B02014_009E",
+  "label": "Estimate!!Total!!American Indian tribes, specified!!Cheyenne",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_009EA,B02014_009M,B02014_009MA"
+}

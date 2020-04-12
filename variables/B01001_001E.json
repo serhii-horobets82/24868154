@@ -1,0 +1,9 @@
+{
+  "name": "B01001_001E",
+  "label": "Estimate!!Total",
+  "concept": "SEX BY AGE",
+  "predicateType": "int",
+  "group": "B01001",
+  "limit": 0,
+  "attributes": "B01001_001EA,B01001_001M,B01001_001MA"
+}

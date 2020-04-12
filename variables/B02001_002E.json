@@ -1,0 +1,9 @@
+{
+  "name": "B02001_002E",
+  "label": "Estimate!!Total!!White alone",
+  "concept": "RACE",
+  "predicateType": "int",
+  "group": "B02001",
+  "limit": 0,
+  "attributes": "B02001_002EA,B02001_002M,B02001_002MA"
+}

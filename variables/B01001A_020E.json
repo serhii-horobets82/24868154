@@ -1,0 +1,9 @@
+{
+  "name": "B01001A_020E",
+  "label": "Estimate!!Total!!Female!!10 to 14 years",
+  "concept": "SEX BY AGE (WHITE ALONE)",
+  "predicateType": "int",
+  "group": "B01001A",
+  "limit": 0,
+  "attributes": "B01001A_020EA,B01001A_020M,B01001A_020MA"
+}

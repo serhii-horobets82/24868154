@@ -1,0 +1,9 @@
+{
+  "name": "B04007_001E",
+  "label": "Estimate!!Total",
+  "concept": "ANCESTRY",
+  "predicateType": "int",
+  "group": "B04007",
+  "limit": 0,
+  "attributes": "B04007_001EA,B04007_001M,B04007_001MA"
+}

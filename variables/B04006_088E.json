@@ -1,0 +1,9 @@
+{
+  "name": "B04006_088E",
+  "label": "Estimate!!Total!!Subsaharan African!!Other Subsaharan African",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_088EA,B04006_088M,B04006_088MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B04005_105E",
+  "label": "Estimate!!Total!!West Indian (except Hispanic groups)!!West Indian",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_105EA,B04005_105M,B04005_105MA"
+}

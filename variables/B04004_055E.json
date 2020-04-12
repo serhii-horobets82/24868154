@@ -1,0 +1,9 @@
+{
+  "name": "B04004_055E",
+  "label": "Estimate!!Total!!Macedonian",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_055EA,B04004_055M,B04004_055MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B05003E_019E",
+  "label": "Estimate!!Total!!Female!!18 years and over",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS (NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE)",
+  "predicateType": "int",
+  "group": "B05003E",
+  "limit": 0,
+  "attributes": "B05003E_019EA,B05003E_019M,B05003E_019MA"
+}

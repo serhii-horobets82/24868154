@@ -1,0 +1,9 @@
+{
+  "name": "B05002_002E",
+  "label": "Estimate!!Total!!Native",
+  "concept": "PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05002",
+  "limit": 0,
+  "attributes": "B05002_002EA,B05002_002M,B05002_002MA"
+}

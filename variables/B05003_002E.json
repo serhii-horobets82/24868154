@@ -1,0 +1,9 @@
+{
+  "name": "B05003_002E",
+  "label": "Estimate!!Total!!Male",
+  "concept": "SEX BY AGE BY NATIVITY AND CITIZENSHIP STATUS",
+  "predicateType": "int",
+  "group": "B05003",
+  "limit": 0,
+  "attributes": "B05003_002EA,B05003_002M,B05003_002MA"
+}

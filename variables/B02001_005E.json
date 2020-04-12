@@ -1,0 +1,9 @@
+{
+  "name": "B02001_005E",
+  "label": "Estimate!!Total!!Asian alone",
+  "concept": "RACE",
+  "predicateType": "int",
+  "group": "B02001",
+  "limit": 0,
+  "attributes": "B02001_005EA,B02001_005M,B02001_005MA"
+}

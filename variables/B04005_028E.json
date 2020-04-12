@@ -1,0 +1,9 @@
+{
+  "name": "B04005_028E",
+  "label": "Estimate!!Total!!Celtic",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_028EA,B04005_028M,B04005_028MA"
+}

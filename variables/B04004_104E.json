@@ -1,0 +1,9 @@
+{
+  "name": "B04004_104E",
+  "label": "Estimate!!Total!!West Indian (except Hispanic groups)!!U.S. Virgin Islander",
+  "concept": "PEOPLE REPORTING SINGLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04004",
+  "limit": 0,
+  "attributes": "B04004_104EA,B04004_104M,B04004_104MA"
+}

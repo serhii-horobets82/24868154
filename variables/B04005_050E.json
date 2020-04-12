@@ -1,0 +1,9 @@
+{
+  "name": "B04005_050E",
+  "label": "Estimate!!Total!!Israeli",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_050EA,B04005_050M,B04005_050MA"
+}

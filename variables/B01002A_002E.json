@@ -1,0 +1,9 @@
+{
+  "name": "B01002A_002E",
+  "label": "Estimate!!Median age --!!Male",
+  "concept": "MEDIAN AGE BY SEX (WHITE ALONE)",
+  "predicateType": "float",
+  "group": "B01002A",
+  "limit": 0,
+  "attributes": "B01002A_002EA,B01002A_002M,B01002A_002MA"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "B01001C_002E",
+  "label": "Estimate!!Total!!Male",
+  "concept": "SEX BY AGE (AMERICAN INDIAN AND ALASKA NATIVE ALONE)",
+  "predicateType": "int",
+  "group": "B01001C",
+  "limit": 0,
+  "attributes": "B01001C_002EA,B01001C_002M,B01001C_002MA"
+}

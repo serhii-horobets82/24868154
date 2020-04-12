@@ -1,0 +1,9 @@
+{
+  "name": "B02014_026E",
+  "label": "Estimate!!Total!!American Indian tribes, specified!!Navajo",
+  "concept": "AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS",
+  "predicateType": "int",
+  "group": "B02014",
+  "limit": 0,
+  "attributes": "B02014_026EA,B02014_026M,B02014_026MA"
+}

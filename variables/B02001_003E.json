@@ -1,0 +1,9 @@
+{
+  "name": "B02001_003E",
+  "label": "Estimate!!Total!!Black or African American alone",
+  "concept": "RACE",
+  "predicateType": "int",
+  "group": "B02001",
+  "limit": 0,
+  "attributes": "B02001_003EA,B02001_003M,B02001_003MA"
+}

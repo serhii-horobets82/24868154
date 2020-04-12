@@ -1,0 +1,9 @@
+{
+  "name": "B04006_016E",
+  "label": "Estimate!!Total!!Armenian",
+  "concept": "PEOPLE REPORTING ANCESTRY",
+  "predicateType": "int",
+  "group": "B04006",
+  "limit": 0,
+  "attributes": "B04006_016EA,B04006_016M,B04006_016MA"
+}

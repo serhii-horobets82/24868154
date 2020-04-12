@@ -1,0 +1,9 @@
+{
+  "name": "B04005_037E",
+  "label": "Estimate!!Total!!Estonian",
+  "concept": "PEOPLE REPORTING MULTIPLE ANCESTRY",
+  "predicateType": "int",
+  "group": "B04005",
+  "limit": 0,
+  "attributes": "B04005_037EA,B04005_037M,B04005_037MA"
+}
